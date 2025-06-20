@@ -6,3 +6,4 @@ google-auth-httplib2==0.2.0
 google-api-python-client==2.147.0
 python-dateutil==2.9.0
 agno==1.6.3
+serpapi==0.1.5
